@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.0"
+  },
+  "name": "git-clone",
+  "version": "1.0.0",
+  "description": "Feito alterações após o git clone",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
